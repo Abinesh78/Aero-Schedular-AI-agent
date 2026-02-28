@@ -1,0 +1,22 @@
+[
+  {
+    "id": "AC01",
+    "type": "C172",
+    "availability": {
+      "Mon": ["S1", "S2"],
+      "Tue": ["S1"]
+    },
+    "maintenance": {
+      "Wed": ["S1"]
+    }
+  },
+  {
+    "id": "AC02",
+    "type": "C172",
+    "availability": {
+      "Mon": ["S1"],
+      "Tue": ["S1", "S2"]
+    },
+    "maintenance": {}
+  }
+]
