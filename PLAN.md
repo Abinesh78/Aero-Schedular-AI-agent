@@ -1,4 +1,4 @@
-# Airman Agent Implementation Plan
+# Aero Schedular AI Agent Implementation Plan
 
 ## Architectural Decisions
 - **OR-Tools CP-SAT Solver**: Used for roster generation to handle complex constraints (multi-resource, scheduling windows) efficiently.

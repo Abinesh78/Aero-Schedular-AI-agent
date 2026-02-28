@@ -1,6 +1,6 @@
-Aero Schedular AI Agent --- Dynamic Roster + Dispatch Engine
+# ✈️ Aero Schedular AI Agent --- Dynamic Roster + Dispatch Engine
 
-Airman Agent is a constraint-based scheduling and dispatch engine designed for flight training schools. Built with **OR-Tools CP-SAT**, **FastAPI**, and a custom **Micro-Graph Workflow**, it ensures 100% hard constraint safety and minimal churn during disruptions.
+Aero Schedular AI Agent is a constraint-based scheduling and dispatch engine designed for flight training schools. Built with **OR-Tools CP-SAT**, **FastAPI**, and a custom **Micro-Graph Workflow**, it ensures 100% hard constraint safety and minimal churn during disruptions.
 
 ---
 
